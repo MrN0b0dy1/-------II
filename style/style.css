@@ -1,0 +1,38 @@
+body{
+    color: red;
+    background-color: beige;
+}header{
+    background-color: yellow;
+}
+main{
+    background-color: blue;
+}
+p{
+    color: green;
+}
+.text{
+    color: blueviolet;
+}
+#text{
+    background-color: brown;
+}
+.lorem{
+    color: black;
+    background-color: chocolate;
+    margin: 200px 100px;
+    padding: 30px;
+
+}
+.text2{
+    color: darkred;
+    background-color: indigo;
+    width: 600px;
+    padding: 30px 30px;
+    margin: 30px auto;
+    border: 10px solid black;
+
+
+}
+.pic{
+    width: 500px;
+}
